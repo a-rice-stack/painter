@@ -72,6 +72,4 @@ label.pack()
 
 
 
-
-
 window.mainloop()
